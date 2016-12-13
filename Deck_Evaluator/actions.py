@@ -1,13 +1,26 @@
-class FullAction:
-    def __init__(self):
+from abc import ABCMeta, abstractmethod
+
+
+class Action(object, metaclass=ABCMeta):
+    @property
+    @abstractmethod
+    def action_required(self):
         pass
 
 
-class QuickAction:
-    def __init__(self):
-        pass
+class FullAction(Action, metaclass=ABCMeta):
+    @property
+    def action_required(self):
+        return FullAction
 
 
-class QuickSpellAction:
-    def __init__(self):
-        pass
+class QuickAction(Action, metaclass=ABCMeta):
+    @property
+    def action_required(self):
+        return QuickAction
+
+
+class QuickSpellAction(Action, metaclass=ABCMeta):
+    @property
+    def action_required(self):
+        return QuickSpellAction

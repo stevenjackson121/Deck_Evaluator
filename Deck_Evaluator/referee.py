@@ -10,9 +10,6 @@ class Engine:
     def get_mage(self):
         return self.mage
 
-    def get_spellbook(self):
-        return SpellBook()
-
 
 class Record:
     def __init__(self, wins=0, modified_wins=0, draws=0, losses=0):
