@@ -1,0 +1,383 @@
+Acid Ball	Attack	Acid	Water	1	5	
+Acolyte of the Bog Queen	Creature	Dark Elf, Cleric	Dark	1	5	
+Adramelech's Torment	Equipment		Dark	1	3	
+Adramelech's Touch	Enchantment	Curse, Flame	Dark, Fire	1 & 1	2	1
+Adramelech, Lord of Fire	Creature	Demon	Dark, Fire	4 & 2	24	
+Agony	Enchantment	Curse	Dark	1	2	3
+Akiro's Battle Cry	Incantation	Command	War	4	14	
+Akiro's Favor	Enchantment		War	1	2	1
+Akiro's Hammer	Conjuration	War Machine	War	3	12	
+Altar of Carnage	Conjuration	Altar, Artifact	War	2	8	
+Altar of Domination	Conjuration	Altar, Artifact	War	2	9	
+Altar of Skulls	Conjuration	Skeleton, Altar	Dark	2	9	
+Altar of the Iron Guard	Conjuration	Statue, Artifact	War	1	4	
+Animal Kinship	Conjuration	Totem	Nature	2	8	
+Animate Dead	Incantation	Necro	Dark	3	X	
+Anvil Throne Crossbowman	Creature	Dwarf, Soldier	War	3	11	
+Arc Lightning	Attack	Lightning	Air	1	5	
+Arcane Corruption	Enchantment	Curse	Dark	2	2	5
+Arcane Ring	Equipment	Mana	Arcane	1	2	
+Archer's Watchtower	Conjuration	Outpost	War	1	4	
+Armor Ward	Enchantment	Protection, Metamagic	Holy, War	1 & 1	2	4
+Armory	Conjuration	Outpost	War	3	10	
+Astral Anchor	Enchantment	Force	Mind	1	2	4
+Asyran Cleric	Creature	Cleric	Holy	1	5	
+Asyran Defender	Creature	Knight, Soldier	Holy	2	8	
+Banish	Incantation	Teleport	Arcane	3	14	
+Barkskin	Enchantment	Plant, Healing, Protection	Nature	2	2	2
+Barracks	Conjuration	Outpost	War	3	12	
+Battle Forge	Conjuration	Structure	War, Fire	1 & 1	8	
+Battle Fury	Incantation	Command	War	1	5	
+Bear Strength	Enchantment		Nature	1	2	3
+Bearskin	Equipment		Nature	1	6	
+Bitterwood Fox	Creature	Animal, Canine	Nature	1	5	
+Blinding Flash	Attack	Light	Holy	2	7	
+Block	Enchantment	Force, Defense	Mind	1	2	2
+Blood Demon	Creature	Vampire, Demon	Dark	3	12	
+Bloodcrag Minotaur	Creature	Minotaur, Soldier	War	4	15	
+Bloodfire Helmet	Equipment		Dark	1	5	
+Bloodspine Wall	Conjuration	Plant, Vine	Nature	1	4	
+Blue Gremlin	Creature	Gremlin	Arcane	2	7	
+Bolt of V'Tar	Attack	V'Tar, Lightning	Air	2	8	
+Brace Yourself	Enchantment	Command	War	1	2	
+Bridge Troll	Creature	Soldier, Troll	Nature, War	2 & 1	13	
+Brogan Bloodstone	Creature	Knight, Soldier	Holy	4	15	
+Bull Endurance	Enchantment		Nature	1	2	3
+Burst of Thorns	Incantation		Nature	1	5	
+Call of the Wild	Incantation		Nature	1	4	
+Cascading Force Wave	Incantation	Force	Mind	2	3	
+Cerberus	Creature	Demon, Canine	Dark	4	17	
+Cervere, The Forest Shadow	Creature	Animal, Cat	Nature	4	15	
+Chain Lightning	Attack	Lightning	Air	3	12	
+Chains of Agony	Enchantment	Curse	Dark	1	2	1
+Charge	Incantation	Command	War	1	4	
+Charm	Enchantment	Psychic, Control	Mind	2	2	X
+Cheetah Speed	Enchantment		Nature	1	2	3
+Circle of Fire	Enchantment	Flame, Barrier	Fire	2	2	4
+Circle of Lightning	Enchantment	Lightning, Barrier	Air	2	2	4
+Cloak of Shadows	Equipment	Shadow	Dark	2	6	
+Cobra Reflexes	Enchantment	Defense	Nature	2	2	5
+Colossus Belt	Equipment		War	1	5	
+Combustion	Incantation	Flame	Fire	1	5	
+Conquer	Incantation		War	4	X	
+Construction Yard	Conjuration	Outpost	War	2	7	
+Corrosive Orchid	Conjuration	Plant, Flower, Vine	Nature	2	7	
+Crown of Protection	Equipment	Protection	Holy	1	1	
+Dancing Scimitar	Equipment	Force	Mind	2	5	
+Dark Pact Slayer	Creature	Demon	Dark	3	13	
+Darkfenne Bat	Creature	Animal, Bat	Dark	1	5	
+Darkfenne Hydra	Creature	Serpent	Arcane	4	16	
+Dawnbreaker Ring	Equipment		Holy	1	3	
+Death Link	Enchantment	Curse	Dark	2	2	6
+Death Ring	Equipment	Necro, Mana	Dark	1	5	
+Deathfang	Creature	Undead, Skeleton, Canine	Dark	2	8	
+Deathlock	Conjuration	Artifact	Dark	2	9	
+Deathshroud Staff	Equipment	Necro	Dark	3	8	
+Decoy	Enchantment	Illusion	Mind	1	2	
+Defend	Incantation	Command	War	1	X	
+Defense Ring	Equipment		War	1	3	
+Deflection Bracers	Equipment	Defense	War	1	6	
+Demonhide Armor	Equipment		Dark	2	8	
+Destroy Magic	Incantation	Metamagic	Arcane	4	16	
+Devil's Trident	Attack	Flame	Dark, Fire	1 & 1	7	
+Devouring Jelly	Creature	Ooze	Arcane	3	13	
+Dire Wolf	Creature	Animal, Canine	Nature	3	12	
+Disarm	Incantation	Force	Mind	1	X	
+Dispel	Incantation	Metamagic	Arcane	1	X	
+Dispel Wand	Equipment	Metamagic	Arcane	2	4	
+Dissolve	Incantation	Acid	Water	1	X	
+Divine Intervention	Enchantment	Protection	Holy	3	2	10
+Divine Might	Enchantment		Holy	1	2	3
+Divine Protection	Enchantment	Protection, Aegis	Holy	1	2	2
+Dragon's Breath	Attack	Flame	Fire	3	12	
+Dragonscale Hauberk	Equipment		Fire	1	6	
+Drain Life	Incantation	Vampiric	Dark	3	12	
+Drain Power	Incantation	Mana	Arcane	3	16	
+Drain Soul	Incantation	Vampiric	Dark	4	16	
+Druid's Leaf Ring	Equipment	Mana	Nature	1	2	
+Dwarf Kriegsbiel	Creature	Dwarf, Soldier	War	3	11	
+Dwarf Panzergarde	Creature	Soldier, Dwarf	War	3	11	
+Eagle Wings	Enchantment		Nature	2	2	4
+Eagleclaw Boots	Equipment		Nature	1	4	
+Earth Elemental	Creature	Elemental	Earth	5	20	
+Earthquake	Incantation	Seismic	Earth	2	9	
+Eisenach's Forge Hammer	Equipment	Mana	War	2	8	
+Electrify	Attack	Lightning	Air	2	9	
+Elemental Cloak	Equipment		Arcane	1	6	
+Elemental Wand	Equipment		Earth, Fire, Air, Water	2 or 2 or 2 or 2	5	
+Emerald Tegu	Creature	Animal, Reptile	Nature	2	9	
+Enchanter's Ring	Equipment		Arcane, Nature	1 or 1	2	
+Enchanter's Wardstone	Conjuration	Protection, Rune	Arcane	1	4	
+Enchantment Transfusion	Enchantment	Metamagic	Arcane	1	2	X
+Enfeeble	Enchantment	Curse	Dark	2	2	4
+Essence Drain	Enchantment	Mana	Arcane	2	2	4
+Etherian Lifetree	Conjuration	Plant, Tree	Nature	2	7	
+Evade	Incantation	Command	War	1	3	
+Explode	Incantation	Flame	Fire	2	X	
+Falcon Precision	Enchantment		Nature	1	2	2
+Fellella, Pixie Familiar	Creature	Faerie	Nature	3	12	
+Feral Bobcat	Creature	Animal, Cat	Nature	1	5	
+Fireball	Attack	Flame	Fire	2	8	
+Firebrand Imp	Creature	Demon	Dark	1	5	
+Fireshaper Ring	Equipment		Fire	1	3	
+Firestorm	Attack	Flame	Fire	3	11	
+Flameblast	Attack	Flame	Fire	1	5	
+Flaming Hellion	Creature	Demon	Dark	3	13	
+Flank Attack	Incantation	Command	War	1	3	
+Fog Bank	Conjuration	Cloud	Air	1	4	
+Force Bash	Incantation	Force	Mind	2	8	
+Force Crush	Enchantment	Force	Mind	3	2	5
+Force Hammer	Attack	Force	Mind	2	9	
+Force Hold	Enchantment	Force	Mind	2	2	2
+Force Orb	Enchantment	Force, Defense	Mind	1	2	3
+Force Push	Incantation	Force	Mind	1	3	
+Force Ring	Equipment	Mana, Force	Mind	1	3	
+Force Sword	Enchantment	Force, Defense	Mind	1	2	3
+Force Wave	Incantation	Force	Mind	1	5	
+Forcefield	Enchantment	Force	Mind	4	2	10
+Fortified Position	Enchantment	Command	War	2	2	4
+Fumble	Enchantment	Force	Mind	1	2	X
+Galador, Protector of Straywood	Creature	Animal, Cervine	Nature, Air	3 & 1	16	
+Galaxxus	Conjuration	V'Tar, Artifact	War	2	8	
+Gale Force Ring	Equipment	0.0	Air	1	3	
+Galvitar, Force Blade	Equipment	Force	Mind	3	11	
+Gargoyle Sentry	Creature	Gargoyle	Arcane	3	11	
+Garrison Post	Conjuration	Outpost	War	1	4	
+Gate to Hell	Conjuration	Portal	Dark	6	12	
+Gate to Voltari	Conjuration	Portal	Arcane	4	14	
+Gauntlets of Strength	Equipment		War	1	3	
+General's Signet Ring	Equipment	Mana	War	1	3	
+Geyser	Attack	Hydro	Water	1	4	
+Ghoul Rot	Enchantment	Curse, Poison	Dark	2	2	4
+Giant Wolf Spider	Creature	Insect, Spider	Nature	4	15	
+Goblin Alchemist	Creature	Goblin, Soldier	War	2	9	
+Goblin Bomber	Creature	Goblin, Soldier	War	2	8	
+Goblin Builder	Creature	Goblin, Soldier	War	1	5	
+Goblin Grunt	Creature	Goblin, Soldier	War	1	4	
+Goblin Slinger	Creature	Goblin, Soldier	War	2	7	
+Goran, Werewolf Pet	Creature	Lycanthrope, Canine	Dark	4	15	
+Gorgon Archer	Creature	Serpent	Arcane	4	16	
+Graveyard	Conjuration		Dark	4	14	
+Gravikor	Conjuration	Obelisk, Artifact	Earth	2	8	
+Gray Angel	Creature	Angel	Holy	3	12	
+Grey Wraith	Creature	Spirit	Dark	3	10	
+Grimson Deadeye, Sniper	Creature	Dwarf, Soldier	War	4	15	
+Group Heal	Incantation	Healing	Holy	2	9	
+Guard Dog	Creature	Animal, Canine	War	2	8	
+Guardian Angel	Creature	Angel	Holy	3	12	
+Gurmash, Orc Seargeant	Creature	Orc, Soldier	War	3	11	
+Hail of Stones	Attack		Earth	2	8	
+Hand of Bim-Shalla	Conjuration	Temple	Holy	1	5	
+Harmonize	Enchantment	Mana	Arcane	1	2	2
+Harshforge Monolith	Conjuration	Artifact, Obelisk	War, Earth	1 & 1	6	
+Harshforge Plate	Equipment		War	2	8	
+Hawkeye	Enchantment		Nature	1	2	1
+Heal	Incantation	Healing	Holy	2	9	
+Healing Charm	Enchantment	Charm, Healing	Holy	1	2	3
+Hellfire Trap	Enchantment	Trap, Flame	Dark	1	2	2
+Helm of Command	Equipment		War	2	4	
+Helm of Fear	Equipment		Dark	2	8	
+Highland Unicorn	Creature	Animal, Horse	Holy	3	13	
+Horn of Gothos	Equipment		War	2	3	
+Huginn, Raven Familiar	Creature	Animal, Bird	Arcane	3	11	
+Hunting Bow	Equipment		Nature	3	11	
+Hurl Boulder	Attack		Earth	2	8	
+Hurl Meteorite	Attack	0.0	Earth	3	12	
+Hurl Rock	Attack		Earth	1	4	
+Ichthellid	Creature	Undead, Insect	Dark	2	9	
+Idol of Pestilence	Conjuration	Artifact	Dark	2	9	
+Ignite	Incantation	Flame	Fire	1	2	
+Infernian Scourger	Creature	Demon	Dark	2	9	
+Invisible Fist	Attack	Force	Mind	1	4	
+Invisible Stalker	Creature	Force	Mind	5	15	
+Iron Golem	Creature	Golem	Earth	3	13	
+Ivarium Longbow	Equipment		War	2	8	
+Jet Stream	Attack	Wind	Air	1	4	
+Jinx	Enchantment	Metamagic	Arcane	1	2	1
+Knight of Westlock	Creature	Knight, Soldier	Holy	3	13	
+Knockdown	Incantation	Force	Mind	1	3	
+Kralathor, The Devourer	Creature	Plant, Vine	Nature	4	16	
+Lair	Conjuration	Portal	Nature	4	15	
+Lash of Hellfire	Equipment		Dark, Fire	1 & 1	8	
+Lay Hands	Incantation	Healing	Holy	3	9	
+Leather Boots	Equipment		War	1	2	
+Leather Gloves	Equipment		War	1	2	
+Libro Mortuos	Equipment	Necro, Tome	Dark	3	10	
+Lightning Bolt	Attack	Lightning	Air	2	8	
+Lightning Ring	Equipment		Air	1	3	
+Lion Savagery	Enchantment		Nature	1	2	3
+Ludwig Boltstorm	Creature	Dwarf, Soldier	War	3	13	
+Mage Staff	Equipment		Arcane	1	5	
+Mage Wand	Equipment		Arcane	2	5	
+Magebane	Enchantment	Curse	Dark	1	2	3
+Maim Wings	Enchantment	Curse	Dark	1	2	3
+Makunda	Creature	Animal, Cat	Nature	4	17	
+Malacoda	Creature	Demon	Dark	4	16	
+Mana Crystal	Conjuration	Mana	Arcane	1	5	
+Mana Flower	Conjuration	Mana, Plant	Nature	1	5	
+Mana Leech	Creature	Worm	Arcane	2	8	
+Mana Prism	Conjuration	Artifact, Obelisk, Mana	Arcane	2	7	
+Mana Siphon	Conjuration	Portal, Mana	Arcane	3	12	
+Mangler Caltrops	Conjuration		War	1	5	
+Marked for Death	Enchantment	Curse	Dark	1	2	2
+Mass Sleep	Incantation	Psychic	Mind	4	15	
+Meditation Amulet	Equipment	Mana	Mind	1	4	
+Mind Control	Enchantment	Psychic, Control	Mind	6	2	2X
+Mind Shield	Enchantment	Psychic	Mind	1	2	
+Minor Heal	Incantation	Healing	Holy	1	5	
+Mohktari's Branch	Equipment	Healing	Nature	1	4	
+Mohktari, Great Tree of Life	Conjuration	Plant, Tree	Nature	2	8	
+Moloch's Torment	Equipment		Dark	1	3	
+Mongoose Agility	Enchantment		Nature	1	2	3
+Moonglow Amulet	Equipment	Mana	Arcane	1	6	
+Moonglow Faerie	Creature	Faerie	Arcane	2	8	
+Mordok's Obelisk	Conjuration	Artifact, Obelisk	Arcane	2	8	
+Morning Star	Equipment		War	1	5	
+Mort	Creature	Undead, Skeleton, Soldier	Dark	4	16	
+Mountain Gorilla	Creature	Animal, Ape	Nature	4	16	
+Necropian Vampiress	Creature	Vampire	Dark	4	16	
+Nightshade Lotus	Conjuration	Plant, Flower, Vine	Nature	3	7	
+Nullify	Enchantment	Metamagic	Arcane	1	2	2
+Orc Butcher	Creature	Orc, Soldier	War	2	8	
+Oscuda	Creature	Animal	Nature	3	13	
+Otto Kronig, Master Engineer	Creature	Dwarf, Soldier	War	3	11	
+Pacify	Enchantment	Psychic	Holy	1	2	2
+Pentagram	Conjuration	Portal, Rune	Dark	4	14	
+Perfect Strike	Incantation	Command	War	1	2	
+Piercing Strike	Incantation	Command	War	1	2	
+Pillar of Light	Attack	Light	Holy	1	5	
+Plague Zombie	Creature	Undead, Zombie	Dark	2	9	
+Plagued	Enchantment	Curse, Poison	Dark	2	2	4
+Poison Gas Cloud	Conjuration	Cloud, Poison	Air	2	8	
+Poisoned Blood	Enchantment	Curse, Poison	Dark	1	2	3
+Power Strike	Incantation	Command	War	1	2	
+Psi-Orb	Equipment	Mana	Mind	2	7	
+Psylok	Creature	Psyoculus	Mind	2	8	
+Purge Magic	Incantation	Metamagic	Arcane	3	12	
+Purify	Incantation	Healing	Holy	1	X	
+Quicksand	Conjuration		Earth	2	2X	
+Raincloud	Conjuration	Cloud, Weather	Air, Water	1 & 1	8	
+Rajan's Fury	Conjuration	Totem	Nature	2	7	
+Raptor Vine	Creature	Plant, Vine	Nature	3	9	
+Ravenous Ghoul	Creature	Undead	Dark	3	13	
+Reassemble	Incantation	Necro	Dark	1	4	
+Redclaw, Alpha Male	Creature	Animal, Canine	Nature	4	16	
+Reflex Boots	Equipment	Defense	War	2	9	
+Regrowth	Enchantment		Nature	1	2	3
+Regrowth Belt	Equipment		Nature	1	6	
+Renewing Rain	Incantation	Healing, Weather	Holy, Water	1 & 1	9	
+Renewing Spring	Conjuration	Well	Holy, Nature	1 & 1	6	
+Repulse	Incantation	Force	Mind	1	4	
+Resurrection	Incantation	Healing	Holy	4	X	
+Retaliate	Enchantment		War	1	2	2
+Reverse Attack	Enchantment	Force, Defense	Mind	2	2	5
+Reverse Magic	Enchantment	Metamagic	Arcane	2	2	5
+Rhino Hide	Enchantment		Nature	1	2	2
+Ring of Asyra	Equipment	Mana	Holy	1	2	
+Ring of Beasts	Equipment	Mana	Nature	1	2	
+Ring of Command	Equipment	Mana	War	1	3	
+Ring of Curses	Equipment	Mana	Dark	1	2	
+Ring of Fire	Attack	Flame	Fire	2	9	
+Rise Again	Enchantment	Curse, Necro	Dark	3	2	
+Rolling Fog	Conjuration	Cloud	Air	2	7	
+Rouse the Beast	Incantation		Nature	1	X	
+Royal Archer	Creature	High Elf, Soldier	Holy	3	12	
+Rust	Enchantment	Acid, Curse	Water	1	2	2
+Sacred Ground	Enchantment	Protection, Aegis	Holy	2	2	4
+Sacrificial Altar	Conjuration		Dark	1	4	
+Samandriel, Angel of Light	Creature	Angel	Holy	5	21	
+Samara Tree	Conjuration	Plant, Tree	Nature	2	7	
+Sandstorm	Attack	Wind	Air, Earth	1 & 1	8	
+Sardonyx, Blight of the Living	Creature	Undead, Skeleton, Dragon	Dark	8	24	
+Screech Harpy	Creature	Bird, Harpy	Arcane, Air	2 & 1	11	
+Sectarus, Dark Rune Sword	Equipment	Curse	Dark	3	10	
+Seedling Pod	Conjuration	Plant, Vine	Nature	1	3	
+Seeking Dispel	Incantation	Metamagic	Arcane	1	2	
+Selesius, the East Wind	Creature	Angel	Holy	5	21	
+Sentinel of V'Tar	Enchantment	0.0	Nature	1	2	3
+Sersiryx, Imp Familiar	Creature	Demon	Dark	3	12	
+Shaggoth-Zora	Creature	Undead, Zombie	Dark	3	8	
+Shift Enchantment	Incantation	Metamagic	Arcane	1	X	
+Sir Corazin, Blademaster	Creature	Soldier	War	4	16	
+Skeelax, Taunting Imp	Creature	Demon	Dark	3	11	
+Skeletal Archer	Creature	Undead, Skeleton, Soldier	Dark	3	11	
+Skeletal Knight	Creature	Undead, Skeleton, Soldier	Dark	3	13	
+Skeletal Minion	Creature	Undead, Skeleton, Soldier	Dark	1	5	
+Skeletal Sentry	Creature	Undead, Skeleton	Dark	2	8	
+Slaknir, Goblin Chieftain	Creature	Goblin, Soldier	War	3	12	
+Sleep	Incantation	Psychic	Mind	2	X	
+Sniper Shot	Incantation	Command	War	1	3	
+Sosruko, Ferret Companion	Creature	Animal	Nature	2	7	
+Spiked Pit	Enchantment	Trap	War, Earth	1 & 1	2	5
+Spitting Raptor	Creature	Animal, Reptile	Nature	3	11	
+Sslak, Orb Guardian	Creature	Antarian	Arcane, Dark	1 & 1	7	
+Staff of Asyra	Equipment		Holy	2	9	
+Staff of Beasts	Equipment		Nature	2	7	
+Staff of the Arcanum	Equipment		Arcane	2	8	
+Standard Bearer	Enchantment	Command	War	2	2	5
+Steal Enchantment	Incantation	Metamagic	Arcane	3	X	
+Steal Equipment	Incantation	Force	Mind	3	2X	
+Steelclaw Grizzly	Creature	Animal, Bear	Nature	4	17	
+Stonegaze Basilisk	Creature	Reptile, Lizard	Arcane	3	12	
+Storm Drake Hide	Equipment		Air	1	6	
+Stranglevine	Conjuration	Plant, Vine	Nature	2	7	
+Stumble	Enchantment	Force	Mind	1	2	1
+Sunfire Amulet	Equipment	Healing	Holy, Nature	1 & 1	6	
+Suppression Cloak	Equipment	Mana	Arcane	2	8	
+Suppression Orb	Conjuration	Force, Mana, Artifact	Mind	2	8	
+Surging Wave	Attack	Hydro	Water	1	5	
+Talos	Creature	Statue	War	7	28	
+Tanglevine	Conjuration	Plant, Vine	Nature	1	5	
+Tarok, the Skyhunter	Creature	Animal, Bird	Nature	3	13	
+Tataree	Creature	Insect	Nature	1	6	
+Teleport	Incantation	Teleport	Arcane	2	X	
+Teleport Trap	Enchantment	Trap, Teleport	Arcane	1	2	2
+Temple of Asyra	Conjuration	Temple, Portal	Holy	3	10	
+Temple of Light	Conjuration	Temple	Holy	2	9	
+Temple of the Dawnbreaker	Conjuration	Temple	Holy	2	8	
+Thorg, Chief Bodyguard	Creature	Orc, Soldier	War	4	17	
+Thornlasher	Creature	Plant, Vine	Nature	2	7	
+Thoughtspore	Creature	Psyoculus	Mind	2	8	
+Thunderbolt	Attack	Lightning	Air	3	10	
+Thunderift Falcon	Creature	Animal, Bird	Nature	1	6	
+Timber Wolf	Creature	Animal, Canine	Nature	2	9	
+Togorah, Forest Sentinel	Creature	Plant, Tree, Sequoian	Nature	6	21	
+Tooth & Nail	Conjuration	Totem	Nature	2	7	
+Turn to Stone	Enchantment	Transform	Arcane, Earth	2 & 1	2	4
+Unholy Resurgence	Incantation	Necro	Dark	2	9	
+Unstable Zombie	Creature	Undead, Zombie	Dark	2	9	
+Usslak, Greater Orb Guardian	Creature	Antarian	Arcane, Dark	2 & 1	11	
+V'Tar Force Sentry	Enchantment	V'Tar, Protection, Force	Mind	1	2	3
+V'Tar Suppression	Incantation	V'Tar, Curse	Dark	2	6	
+V'Tarrian Energy Wave	Attack	V'Tar	Arcane	3	12	
+V'Tarrian Healing Song	Incantation	V'Tar, Healing	Holy	1	5	
+V'Torrak Gate	Conjuration	Teleport, Portal	Arcane	2	8	
+Valshalla, Lightning Angel	Creature	Angel	Holy	5	21	
+Vampiric Strike	Incantation	Vampiric	Dark	1	3	
+Vampirism	Enchantment	Vampiric	Dark	2	2	4
+Venomous Zombie	Creature	Undead, Zombie	Dark	2	7	
+Veteran's Belt	Equipment		War	1	4	
+Vine Snapper	Creature	Plant, Vine	Nature	2	7	
+Vine Tree	Conjuration	Plant, Tree	Nature	2	9	
+Vinewhip Staff	Equipment	Vine	Nature	2	7	
+Wall of Bones	Conjuration	Skeleton	Dark	1	6	
+Wall of Earth	Conjuration		Earth	1	5	
+Wall of Fire	Conjuration	Flame	Fire	2	7	
+Wall of Force	Conjuration	Force	Mind	1	6	
+Wall of Pikes	Conjuration		War	1	4	
+Wall of Steel	Conjuration	Metal	Earth	2	8	
+Wall of Stone	Conjuration	Stone	Earth	2	7	
+Wall of Thorns	Conjuration	Plant	Nature	1	5	
+Wand of Healing	Equipment	Healing	Holy	1	2	
+War Sledge	Equipment		War	2	8	
+Whirling Spirit	Creature	Wind	Air	4	12	
+Whirling Strike	Incantation	Command	War	2	9	
+Wildfire Imp	Creature	Demon	Dark	1	5	
+Wind Wyvern Hide	Equipment		Air	1	6	
+Windstorm	Attack	Wind	Air	1	4	
+Wizard's Tower	Conjuration	Tower	Arcane	2	7	
+Ziggurat of Undeath	Conjuration	Artifact, Temple	Dark	2	8	
+Zombie Brute	Creature	Undead, Zombie	Dark	3	11	
+Zombie Crawler	Creature	Undead, Zombie	Dark	1	4	
+Zombie Frenzy	Incantation	Necro	Dark	2	9	
+Zombie Minion	Creature	Undead, Zombie	Dark	2	7

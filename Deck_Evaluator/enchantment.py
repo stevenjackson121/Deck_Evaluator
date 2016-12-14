@@ -9,7 +9,7 @@ class Enchantment(Deck_Evaluator.spell.Spell):
         "action_required":    Deck_Evaluator.actions.QuickSpellAction,
         "max_range":          2,
         "min_range":          0,
-        "valid_target_rule": Deck_Evaluator.target.is_(Deck_Evaluator.subtype.Creature)}
+        "valid_target_rule": Deck_Evaluator.target.is_a(Deck_Evaluator.subtype.Creature)}
 
     @classmethod
     def __prepare__(mcs, name, bases, **kwargs):

@@ -1,9 +1,11 @@
 import Deck_Evaluator.attacks as attacks
 import logging
+import re
 logger = logging.getLogger(__name__)
 
 
 class Spell(type):
+    lower_list = {'Of', 'And', 'The'}
     required_attributes = frozenset(["action_required",
                                      "casting_cost",
                                      "min_range",
@@ -31,7 +33,10 @@ class Spell(type):
         missing_attributes = Spell.required_attributes.difference(frozenset(namespace.keys()))
         if len(missing_attributes) > 0:
             raise TypeError("Cannot create new spell type \"%s\"; Missing required attributes %s" %
-                            (name, str(missing_attributes)))
+                            (name, sorted(missing_attributes)))
+        namespace.setdefault('card_name', ' '.join(w if w not in Spell.lower_list else w.lower()
+                                              for w in re.findall('[A-Z][^A-Z]*', name)))
+
         super(Spell, cls).__init__(name, bases, namespace)
 
 

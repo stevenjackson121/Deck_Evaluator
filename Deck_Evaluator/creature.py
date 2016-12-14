@@ -9,12 +9,12 @@ class Creature(Deck_Evaluator.spell.Spell):
         "action_required":    Deck_Evaluator.actions.FullAction,
         "max_range":          0,
         "min_range":          0,
-        "valid_target_rule": Deck_Evaluator.target.is_(Deck_Evaluator.subtype.Zone)}
+        "valid_target_rule": Deck_Evaluator.target.is_a(Deck_Evaluator.subtype.Zone)}
 
     @classmethod
     def __prepare__(mcs, name, bases, **kwargs):
         namespace = super(Creature, mcs).__prepare__(name, bases, **kwargs)
-        namespace["subtypes"] |= {"Equipment"}
+        namespace["subtypes"] |= {"Creature"}
         return namespace
 
     def __init__(cls, name, bases, namespace, **kwargs):

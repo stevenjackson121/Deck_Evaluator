@@ -11,7 +11,7 @@ class Equipment(Deck_Evaluator.spell.Spell):
     default_class_properties = {"action_required": actions.QuickSpellAction,
                                 "max_range": 2,
                                 "min_range": 0,
-                                "valid_target_types": frozenset([Mage])}
+                                "valid_target_rule": frozenset([Mage])}
     @classmethod
     def __prepare__(mcs, name, bases, **kwargs):
         namespace = super(Equipment, mcs).__prepare__(name, bases, **kwargs)

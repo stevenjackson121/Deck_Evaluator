@@ -9,7 +9,7 @@ class Conjuration(Deck_Evaluator.spell.Spell):
         "action_required":    Deck_Evaluator.actions.QuickSpellAction,
         "max_range":          1,
         "min_range":          0,
-        "valid_target_rule": Deck_Evaluator.target.is_(Deck_Evaluator.subtype.Zone)}
+        "valid_target_rule": Deck_Evaluator.target.is_a(Deck_Evaluator.subtype.Zone)}
 
     @classmethod
     def __prepare__(mcs, name, bases, **kwargs):
